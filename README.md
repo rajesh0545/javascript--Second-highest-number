@@ -1,0 +1,1 @@
+# javascript--Second-highest-number
